@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/carrigan223/testing_example_jest"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
   }
 }
