@@ -1,0 +1,12 @@
+{
+  "name": "in_class_test",
+  "version": "1.0.0",
+  "description": "In Class example for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Andrew Carrigan",
+  "license": "ISC"
+}
